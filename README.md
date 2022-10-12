@@ -12,7 +12,7 @@
 
 ## Importand commands
 
-### $ python manage.py runserver
-### $ python manage.py makemigrations
-### $ python manage.py migrations
-### $ python manage.py test
+`$ python manage.py runserver`
+`$ python manage.py makemigrations`
+`$ python manage.py migrations`
+`$ python manage.py test`
