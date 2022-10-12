@@ -13,6 +13,6 @@
 ## Importand commands
 
 `$ python manage.py runserver` <br>
-`$ python manage.py makemigrations`
-`$ python manage.py migrations`
-`$ python manage.py test`
+`$ python manage.py makemigrations` <br>
+`$ python manage.py migrations` <br>
+`$ python manage.py test`<br>
